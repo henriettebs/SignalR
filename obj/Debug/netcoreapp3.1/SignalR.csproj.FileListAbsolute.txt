@@ -1,0 +1,8 @@
+/Users/henriettebs/Documents/Evoy/SignalR/obj/Debug/netcoreapp3.1/SignalR.csproj.AssemblyReference.cache
+/Users/henriettebs/Documents/Evoy/SignalR/obj/Debug/netcoreapp3.1/SignalR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henriettebs/Documents/Evoy/SignalR/obj/Debug/netcoreapp3.1/SignalR.AssemblyInfoInputs.cache
+/Users/henriettebs/Documents/Evoy/SignalR/obj/Debug/netcoreapp3.1/SignalR.AssemblyInfo.cs
+/Users/henriettebs/Documents/Evoy/SignalR/obj/Debug/netcoreapp3.1/SignalR.csproj.CoreCompileInputs.cache
+/Users/henriettebs/Documents/Evoy/SignalR/obj/Debug/netcoreapp3.1/SignalR.MvcApplicationPartsAssemblyInfo.cache
+/Users/henriettebs/Documents/Evoy/SignalR/obj/Debug/netcoreapp3.1/SignalR.RazorAssemblyInfo.cache
+/Users/henriettebs/Documents/Evoy/SignalR/obj/Debug/netcoreapp3.1/SignalR.RazorAssemblyInfo.cs

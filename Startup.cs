@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using SignalR.Mvc;
 
 namespace SignalR
 {
@@ -33,7 +34,7 @@ namespace SignalR
             app.UseFileServer();
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapHub<ChatHub>("/chat");
+                endpoints.MapHub<SignalR.Mvc>("/chat");
             });
         }
     }
