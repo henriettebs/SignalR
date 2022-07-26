@@ -1,7 +1,7 @@
 # SignalR
 A sample project of a SignalR application using .NET SDK v.6.0
 
-
+\n
 
 To recreate this project follow the quickstart guide found here: 
 
